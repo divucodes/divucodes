@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Verma</h1>
 <h3 align="center">🌟Driven by curiosity to solve problems, explore technology, and create impactful solutions.</h3>
 
-- 🎓 Masters in Computers and Information Sciences (AUT)
+- 🎓 Masters in Computer and Information Sciences (AUT)
 - 👨‍💻 All of my projects are available at [https://github.com/divucodes?tab=repositories](https://github.com/divucodes?tab=repositories)
 
 - 👨 Linkedin [https://www.linkedin.com/in/divyansh-verma-721789227/](https://www.linkedin.com/in/divyansh-verma-721789227/)
